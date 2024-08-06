@@ -34,10 +34,12 @@ defineProps({
           <span class="hidden sm:block">Закладки</span>
         </li>
       </RouterLink>
-      <li class="flex gap-3 text-gray-500 hover:text-black cursor-pointer">
-        <img src="/profile.svg" alt="cart" />
-        <span class="hidden sm:block">Профиль</span>
-      </li>
+      <RouterLink to="/profile">
+        <li class="flex gap-3 text-gray-500 hover:text-black cursor-pointer">
+          <img src="/profile.svg" alt="cart" />
+          <span class="hidden sm:block">Профиль</span>
+        </li>
+      </RouterLink>
     </ul>
   </header>
 </template>

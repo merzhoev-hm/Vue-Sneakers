@@ -49,7 +49,7 @@ watch(
 
 <template>
   <Drawer v-if="drawerOpen" :totalPrice="totalPrice" :vatPrice="vatPrice" />
-  <div class="bg-white w-4/5 m-auto rounded-xl shadow-xl my-14">
+  <div class="bg-white w-11/12 sm:w-4/5 m-auto rounded-xl shadow-xl my-14">
     <Header :totalPrice="totalPrice" @openDrawer="openDrawer" />
 
     <div class="p-10">

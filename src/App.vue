@@ -13,10 +13,12 @@ const vatPrice = computed(() => Math.round((totalPrice.value * 5) / 100))
 
 const closeDrawer = () => {
   drawerOpen.value = false
+  document.body.classList.remove('overflow-hidden')
 }
 
 const openDrawer = () => {
   drawerOpen.value = true
+  document.body.classList.add('overflow-hidden')
 }
 
 const addToCart = (item) => {

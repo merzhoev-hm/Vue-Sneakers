@@ -1,5 +1,5 @@
-# vue-sneakers
-# Ссылка на деплой 
+# vue-sneakers ссылка на деплой
+ 
 (https://spiffy-fenglisu-2a4b40.netlify.app)
 
 ## Recommended IDE Setup

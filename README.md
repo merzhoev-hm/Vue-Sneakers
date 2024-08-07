@@ -1,6 +1,5 @@
 # vue-sneakers
 
-[This template should help get you started developing with Vue 3 in Vite.]
 (https://spiffy-fenglisu-2a4b40.netlify.app)
 
 ## Recommended IDE Setup

@@ -3,14 +3,9 @@
 (https://spiffy-fenglisu-2a4b40.netlify.app)
 
 # Использованные Технологии
+<img src="https://img.shields.io/badge/VUEJS-000?style=for-the-badge&logo=vuetify&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/VUERouter-000?style=for-the-badge&logo=vuetify&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
 
--- Vue Js
--- Cборщик Vite
--- Vue router
--- Tailwindcss
--- AutoAnimatePlugin
--- Debounce
--- Axios
+<img src="https://img.shields.io/badge/AutoAnimatePlugin-000?style=for-the-badge&logo=&="/> <img src="https://img.shields.io/badge/debounce-000?style=for-the-badge&logo=dash&logoColor=008DE4"/> <img src="https://img.shields.io/badge/Axios-000?style=for-the-badge&logo=axios&logoColor=5A29E4"/> <img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
 
 ## Recommended IDE Setup
 

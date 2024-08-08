@@ -13,11 +13,13 @@ const vatPrice = computed(() => Math.round((totalPrice.value * 5) / 100))
 
 const closeDrawer = () => {
   drawerOpen.value = false
+  document.body.style.paddingRight = ''
   document.body.classList.remove('overflow-hidden')
 }
 
 const openDrawer = () => {
   drawerOpen.value = true
+  document.body.style.paddingRight = window.innerWidth - document.documentElement.clientWidth + 'px'
   document.body.classList.add('overflow-hidden')
 }
 

@@ -10,7 +10,7 @@ const items = ref([])
 const { cart, addToCart, removeFromCart } = inject('cart')
 
 const filters = reactive({
-  sortBy: 'title',
+  sortBy: 'name',
   searchQuery: ''
 })
 

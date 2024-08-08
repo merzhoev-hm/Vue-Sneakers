@@ -4,6 +4,14 @@
 
 # Использованные Технологии
 
+-- Vue Js
+-- Cборщик Vite
+-- Vue router
+-- Tailwindcss
+-- AutoAnimatePlugin
+-- Debounce
+-- Axios
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
